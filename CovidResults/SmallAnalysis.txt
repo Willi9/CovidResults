@@ -1,0 +1,28 @@
+ANALYSIS OF THE INFORMATION LEARNED
+
+Data was extracted from THE COVID TRACKING PROJECT
+you can find more information at https://covidtracking.com/race
+
+
+- COVID-19 Cases in Colorado on March 7, 2021
+
+   On March 7th 2021 there were 435,762 cases in Colorado according to THE COVID TRACKING PROJECT
+   The percentage of LatinX of all the cases was 27.36% percentage. This is very interesting because
+   according to the 2020 Census 21.6% of the population of Colorado is LatinX. This can mean that Covid-19
+   is impacting the LatinX population of Colorado more than other ethnic groups. It is important to look into
+   this information further to address this issue.
+
+- Covid-19 Deaths in Colorado on March 7, 2021
+
+    On March 7th, 2021 there were 5,986 deaths attributed to Covid-19. If we look at the percentage of death according
+    to racial groups we see that 64.63% of deaths are white, 3.19% are African American, and 20.11% are LatinX.
+    There are no big disparities between deaths, and it looks like that deaths are not affecting one racial group over another one.
+    It is important that we keep an eye on deaths because the percentage of LatinX deaths should increase to mirror
+    the percentages of positive Covid-19 cases..
+
+
+The Census data of Colorado can be found at:
+https://www.census.gov/library/visualizations/interactive/race-and-ethnicity-in-the-united-state-2010-and-2020-census.html
+
+Learn more about THE COVID TRACKING PROJECT at:
+https://covidtracking.com
